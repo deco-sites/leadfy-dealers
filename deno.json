@@ -12,10 +12,20 @@
     "uninstall": "deno eval 'import \"deco/scripts/apps/uninstall.ts\"'",
     "bundle": "deno eval 'import \"deco/scripts/apps/bundle.ts\"' deco-sites/leadfy-dealers"
   },
-  "githooks": { "pre-commit": "check" },
-  "exclude": ["node_modules", "static/", "README.md", "**/_fresh/*"],
+  "githooks": {
+    "pre-commit": "check"
+  },
+  "exclude": [
+    "node_modules",
+    "static/",
+    "README.md",
+    "**/_fresh/*"
+  ],
   "nodeModulesDir": true,
-  "compilerOptions": { "jsx": "react-jsx", "jsxImportSource": "preact" },
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
+  },
   "imports": {
     "deco-sites/leadfy-dealers/": "./",
     "deco-sites/start/": "./",
@@ -34,5 +44,12 @@
     "deco/": "https://denopkg.com/deco-cx/deco@1.50.2/",
     "apps/": "https://denopkg.com/deco-cx/apps@0.25.19/"
   },
-  "lint": { "rules": { "tags": ["fresh", "recommended"] } }
+  "lint": {
+    "rules": {
+      "tags": [
+        "fresh",
+        "recommended"
+      ]
+    }
+  }
 }
