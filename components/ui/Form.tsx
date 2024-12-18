@@ -133,26 +133,26 @@ export default function Form(
         </div>
 
         <label>
-  E-mail
-</label>
-<input
-  type="email"
-  value={email.value}
-  name="email"
-  id="email"
-  placeholder="Seu E-mail aqui"
-  required
-  onChange={(e) => {
-    email.value = normalizeEmail((e.target as HTMLInputElement).value); // Normaliza o e-mail
-    (e.target as HTMLInputElement).value = email.value; // Atualiza o valor do input
-    email.isValid = validateEmail(email.value); // Valida o e-mail
-  }}
-  class="border-[1px] border-[#cccccc] py-2 px-3 focus-visible:border-[#3898ec] focus-visible:outline-none"
-/>
+         E-mail
+        </label>
+        <input
+          type="email"
+          value={email.value}
+          name="email"
+          id="email"
+          placeholder="Seu E-mail aqui"
+          required
+          onChange={(e) => {
+            email.value = normalizeEmail((e.target as HTMLInputElement).value); // Normaliza o e-mail
+            (e.target as HTMLInputElement).value = email.value; // Atualiza o valor do input
+            email.isValid = validateEmail(email.value); // Valida o e-mail
+          }}
+          class="border-[1px] border-[#cccccc] py-2 px-3 focus-visible:border-[#3898ec] focus-visible:outline-none"
+        />
 
-{!email.isValid && email.value !== "" && (
-  <span style={{ color: "red", fontSize: "0.875rem" }}>E-mail inválido</span>
-)}
+        {!email.isValid && email.value !== "" && (
+          <span style={{ color: "red", fontSize: "0.875rem" }}>E-mail inválido</span>
+        )}
 
         <button
           class="btn bg-accent text-base-200 tracking-[3px] w-full py-2.5 flex justify-center items-center font-bold whitespace-nowrap"
