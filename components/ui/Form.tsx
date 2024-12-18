@@ -133,6 +133,7 @@ export default function Form(
         </div>
 
         <Input
+          type="email"    // Define o tipo de input como "email"
           label={"E-mail"}
           placeholder={"Seu E-mail aqui"}
           value={email.value}
