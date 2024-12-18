@@ -139,8 +139,13 @@ export default function Form(
           value={email.value}
           changeState={(value) => {
             email.value = value;
+            email.isValid = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value); // Validação do e-mail
           }}
         />
+
+        {!email.isValid && email.value !== "" && (
+          <span style={{ color: "red", fontSize: "0.875rem" }}>E-mail inválido</span>
+)}
         <button
           class="btn bg-accent text-base-200 tracking-[3px] w-full py-2.5 flex justify-center items-center font-bold whitespace-nowrap"
           disabled={buttonDisabled.value}
