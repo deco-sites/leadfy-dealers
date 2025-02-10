@@ -64,7 +64,7 @@ export default function Footer({ stores, interval }: Props) {
       </div>
       <div class="flex justify-between max-w-[1280px] mx-auto py-4 border-t-[1px] border-white px-5">
         <span class="text-[14px] font-bold">
-          © 2k24 Todos os Direitos Reservados
+          © 2k25 Todos os Direitos Reservados
         </span>
       </div>
     </div>
