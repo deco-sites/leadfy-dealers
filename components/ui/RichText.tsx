@@ -7,7 +7,7 @@ export interface Props {
 
 export default function RichText({ content }: Props) {
   return (
-    <div class="container text-center">
+    <div class="container text-center mt-8">
       <div>
         {content.map((content) => {
           return <Quilltext html={content} />;
