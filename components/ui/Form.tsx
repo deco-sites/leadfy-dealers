@@ -11,12 +11,13 @@ import WhatsAppNormalButton from "deco-sites/leadfy-dealers/components/ui/WhatsA
 import type { WhatsNormalButton } from "deco-sites/leadfy-dealers/components/ui/StoresPdp.tsx";
 
 export default function Form(
-  { vehicle, idLoja, phone, whatsNormalButton, showPriceText, priceText }: {
+  { vehicle, idLoja, phone, whatsNormalButton, showPriceText, showPrice, priceText }: {
     vehicle: Vehicle;
     idLoja: string;
     phone?: string;
     whatsNormalButton: WhatsNormalButton;
     showPriceText?: boolean;
+    showPrice?: boolean;
     priceText?: string;
   },
 ) {
@@ -86,14 +87,16 @@ export default function Form(
         >
         </p>
       </div>
-      <div class="flex flex-col py-2">
-        {showPriceText && (
-          <span class="w-[150px] font-semibold">{priceText}</span>
-        )}
-        <span class="text-[32px] font-bold text-secondary">
-          {formatPrice(Number(vehicle["g:price"][0]))}
-        </span>
-      </div>
+      {showPrice && (
+        <div class="flex flex-col py-2">
+          {showPriceText && (
+            <span class="w-[150px] font-semibold">{priceText}</span>
+          )}
+          <span class="text-[32px] font-bold text-secondary">
+            {formatPrice(Number(vehicle["g:price"][0]))}
+          </span>
+        </div>
+      )}
 
       <form
         action=""
