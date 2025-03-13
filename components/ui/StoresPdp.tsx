@@ -25,6 +25,7 @@ export interface WhatsNormalButton {
 
 export interface Props {
   whatsNormalButton: WhatsNormalButton;
+  showPrice: boolean;
   showPriceText?: boolean;
   priceText?: string;
   vehicleDescription?: HTML;
@@ -102,6 +103,7 @@ export default function StoresPdp(
                 vehicle={vehicle}
                 idLoja={idLoja}
                 whatsNormalButton={whatsNormalButton}
+                showPrice={showPrice}
                 showPriceText={showPriceText}
                 priceText={priceText}
               />
