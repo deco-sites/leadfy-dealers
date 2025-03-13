@@ -25,7 +25,7 @@ export interface WhatsNormalButton {
 
 export interface Props {
   whatsNormalButton: WhatsNormalButton;
-  showPrice: boolean;
+  showPrice?: boolean;
   showPriceText?: boolean;
   priceText?: string;
   vehicleDescription?: HTML;
@@ -41,6 +41,7 @@ export default function StoresPdp(
     page,
     whatsFloatButton = false,
     whatsNormalButton,
+    showPrice = true,
     showPriceText,
     priceText,
     vehicleDescription,
