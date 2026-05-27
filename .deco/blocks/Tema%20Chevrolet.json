@@ -1,0 +1,24 @@
+{
+  "__resolveType": "deco-sites/leadfy-dealers/sections/Theme.tsx",
+  "buttonStyle": {
+    "--border-btn": "1px",
+    "--btn-focus-scale": "0.95",
+    "--btn-text-case": "normal-case",
+    "--rounded-btn": "0.2rem"
+  },
+  "complementaryColors": {
+    "base": {
+      "base-200": "#ffffff",
+      "base-300": "#6e6e6e"
+    }
+  },
+  "font": {
+    "fontFamily": "None"
+  },
+  "mainColors": {
+    "base-100": "#ffffff",
+    "primary": "#000000",
+    "secondary": "#d1ad57",
+    "tertiary": "#d1ad57"
+  }
+}

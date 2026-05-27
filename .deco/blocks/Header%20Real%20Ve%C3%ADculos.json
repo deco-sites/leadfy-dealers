@@ -1,0 +1,34 @@
+{
+  "__resolveType": "deco-sites/leadfy-dealers/sections/Header.tsx",
+  "alt": "Logo Real Veículos",
+  "brandLogo": "https://decoims.com/leadfy-dealers/407a609b-2d51-4079-b9d0-52f49ff51c05/9c9a77c5_9c9a77c5-caca-4081-9bc5-576c21df5e80.png",
+  "brandName": "Volkswagen",
+  "idLoja": "6452",
+  "logo": "https://decoims.com/leadfy-dealers/be2b9762-1730-4a24-98fc-4a25c68ab667/a22f2585_a22f2585-ff44-4af2-91ff-1054ba2a16b5.png",
+  "seoSection": {
+    "__resolveType": "deco-sites/std/sections/SEO.tsx",
+    "favicon": "https://decoims.com/leadfy-dealers/bb8b319b-7dc1-4723-9e94-e19fcc1568bd/cd6fa28e_cd6fa28e-2373-417d-a933-b857e13a3951",
+    "noIndexNoFollow": false,
+    "title": "Conheça a Simcauto Chevrolet",
+    "titleTemplate": "%s | Deco.cx",
+    "type": "website"
+  },
+  "socialMedias": [
+    {
+      "alt": "Facebook Logo",
+      "href": "https://www.facebook.com/GrupoRealVeiculos",
+      "logo": "https://decoims.com/leadfy-dealers/4d57426c-c078-4603-b6ef-6356b75d0402/40dfadc4_40dfadc4-4e8a-4bfb-a938-9e6d4f61281d.svg"
+    },
+    {
+      "alt": "Instagram Logo",
+      "href": "https://www.instagram.com/realveiculosvw",
+      "logo": "https://decoims.com/leadfy-dealers/345ab8e7-b9a6-41e0-8f4d-6a2c999e6506/a384e519_a384e519-6370-468a-bbb2-c7caa466a507.svg"
+    }
+  ],
+  "whatsApp": {
+    "alt": "WhatsApp Logo",
+    "href": " ",
+    "logo": "https://decoims.com/leadfy-dealers/ac8d7e88-9137-4ca1-9d89-6c5448f4587e/18bc749a_18bc749a-6397-4870-be28-a439d41bb84e.svg"
+  },
+  "whatsAppNumber": "21 999084009"
+}

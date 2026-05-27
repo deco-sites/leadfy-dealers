@@ -1,0 +1,12 @@
+{
+  "__resolveType": "deco-sites/leadfy-dealers/sections/Theme.tsx",
+  "font": {
+    "fontFamily": "Rubik"
+  },
+  "mainColors": {
+    "base-100": "#d0b4b4",
+    "primary": "#a7b300",
+    "secondary": "#f86d6d",
+    "tertiary": "#511f1f"
+  }
+}

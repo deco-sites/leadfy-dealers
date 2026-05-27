@@ -100,13 +100,13 @@
   "Header Real Veículos": {
     "__resolveType": "deco-sites/leadfy-dealers/sections/Header.tsx",
     "alt": "Logo Real Veículos",
-    "brandLogo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/9c9a77c5-caca-4081-9bc5-576c21df5e80",
+    "brandLogo": "https://decoims.com/leadfy-dealers/407a609b-2d51-4079-b9d0-52f49ff51c05/9c9a77c5_9c9a77c5-caca-4081-9bc5-576c21df5e80.png",
     "brandName": "Volkswagen",
     "idLoja": "6452",
-    "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/a22f2585-ff44-4af2-91ff-1054ba2a16b5",
+    "logo": "https://decoims.com/leadfy-dealers/be2b9762-1730-4a24-98fc-4a25c68ab667/a22f2585_a22f2585-ff44-4af2-91ff-1054ba2a16b5.png",
     "seoSection": {
       "__resolveType": "deco-sites/std/sections/SEO.tsx",
-      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/cd6fa28e-2373-417d-a933-b857e13a3951",
+      "favicon": "https://decoims.com/leadfy-dealers/bb8b319b-7dc1-4723-9e94-e19fcc1568bd/cd6fa28e_cd6fa28e-2373-417d-a933-b857e13a3951",
       "noIndexNoFollow": false,
       "title": "Conheça a Simcauto Chevrolet",
       "titleTemplate": "%s | Deco.cx",
@@ -116,31 +116,31 @@
       {
         "alt": "Facebook Logo",
         "href": "https://www.facebook.com/GrupoRealVeiculos",
-        "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/40dfadc4-4e8a-4bfb-a938-9e6d4f61281d"
+        "logo": "https://decoims.com/leadfy-dealers/4d57426c-c078-4603-b6ef-6356b75d0402/40dfadc4_40dfadc4-4e8a-4bfb-a938-9e6d4f61281d.svg"
       },
       {
         "alt": "Instagram Logo",
         "href": "https://www.instagram.com/realveiculosvw",
-        "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/a384e519-6370-468a-bbb2-c7caa466a507"
+        "logo": "https://decoims.com/leadfy-dealers/345ab8e7-b9a6-41e0-8f4d-6a2c999e6506/a384e519_a384e519-6370-468a-bbb2-c7caa466a507.svg"
       }
     ],
     "whatsApp": {
       "alt": "WhatsApp Logo",
       "href": " ",
-      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/18bc749a-6397-4870-be28-a439d41bb84e"
+      "logo": "https://decoims.com/leadfy-dealers/ac8d7e88-9137-4ca1-9d89-6c5448f4587e/18bc749a_18bc749a-6397-4870-be28-a439d41bb84e.svg"
     },
     "whatsAppNumber": "21 999084009"
   },
   "Header Simcauto": {
     "__resolveType": "deco-sites/leadfy-dealers/sections/Header.tsx",
     "alt": "Logo Simcauto",
-    "brandLogo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/00c57366-f312-4153-8995-b84ac014edb1",
+    "brandLogo": "https://decoims.com/leadfy-dealers/b3e40724-2ed4-4128-a652-857e32df921c/00c57366_00c57366-f312-4153-8995-b84ac014edb1.png",
     "brandName": "Chevrolet",
     "idLoja": "6378",
-    "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/0dfed1dc-b329-44b7-ae07-29dbb23dfae8",
+    "logo": "https://decoims.com/leadfy-dealers/ccd786e7-a747-4423-be42-4c33046c7c8a/0dfed1dc_0dfed1dc-b329-44b7-ae07-29dbb23dfae8.png",
     "seoSection": {
       "__resolveType": "deco-sites/std/sections/SEO.tsx",
-      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/cd6fa28e-2373-417d-a933-b857e13a3951",
+      "favicon": "https://decoims.com/leadfy-dealers/bb8b319b-7dc1-4723-9e94-e19fcc1568bd/cd6fa28e_cd6fa28e-2373-417d-a933-b857e13a3951",
       "noIndexNoFollow": false,
       "title": "Conheça a Simcauto Chevrolet",
       "titleTemplate": "%s | Deco.cx",
@@ -150,18 +150,18 @@
       {
         "alt": "Facebook Logo",
         "href": "https://www.facebook.com/SimcautoChevrolet",
-        "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/40dfadc4-4e8a-4bfb-a938-9e6d4f61281d"
+        "logo": "https://decoims.com/leadfy-dealers/4d57426c-c078-4603-b6ef-6356b75d0402/40dfadc4_40dfadc4-4e8a-4bfb-a938-9e6d4f61281d.svg"
       },
       {
         "alt": "Instagram Logo",
         "href": "https://www.instagram.com/simcautochevroletrio",
-        "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/a384e519-6370-468a-bbb2-c7caa466a507"
+        "logo": "https://decoims.com/leadfy-dealers/345ab8e7-b9a6-41e0-8f4d-6a2c999e6506/a384e519_a384e519-6370-468a-bbb2-c7caa466a507.svg"
       }
     ],
     "whatsApp": {
       "alt": "WhatsApp Logo",
       "href": " ",
-      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/18bc749a-6397-4870-be28-a439d41bb84e"
+      "logo": "https://decoims.com/leadfy-dealers/ac8d7e88-9137-4ca1-9d89-6c5448f4587e/18bc749a_18bc749a-6397-4870-be28-a439d41bb84e.svg"
     },
     "whatsAppNumber": "21 35596207"
   },
@@ -207,8 +207,8 @@
     "__resolveType": "deco-sites/std/sections/SEO.tsx",
     "canonical": "https://www.chevrolet.com.br",
     "description": "Encontre o Chevrolet que combina com você. Confira todos os modelos de carros hatch, sedan, esportivos, picapes, SUVs, conversíveis e muito mais!",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/2643ebda-38f2-4dac-b4b1-18af0276be64",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/29494d07-6fff-4ea1-a340-28d15789676e",
+    "favicon": "https://decoims.com/leadfy-dealers/df2d1201-b57a-4a04-ad87-d00965f29cd5/2643ebda_2643ebda-38f2-4dac-b4b1-18af0276be64.png",
+    "image": "https://decoims.com/leadfy-dealers/f50e14dc-e336-47e8-82cc-386bf7d62e85/29494d07_29494d07-6fff-4ea1-a340-28d15789676e.png",
     "locale": "",
     "siteName": "",
     "siteUrl": "",
@@ -332,8 +332,8 @@
                 {
                   "__resolveType": "deco-sites/std/sections/SEO.tsx",
                   "description": "As melhores ofertas Volks do Brasil",
-                  "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/9016815e-e58d-4b42-89a7-fa0f15a2ed7e",
-                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/d2d8bd67-5ffe-4383-9d77-e8db9a28ab9d",
+                  "favicon": "https://decoims.com/leadfy-dealers/ffd950b6-fc51-45cd-9830-3c2ae9549ab4/9016815e_9016815e-e58d-4b42-89a7-fa0f15a2ed7e.png",
+                  "image": "https://decoims.com/leadfy-dealers/4271762e-67b0-4121-a2fc-c4d6358b6ed7/d2d8bd67_d2d8bd67-5ffe-4383-9d77-e8db9a28ab9d.png",
                   "title": "Conheça a Real Veículos VW",
                   "titleTemplate": "Ofertas Real Veículos VW",
                   "type": "website"
@@ -341,13 +341,13 @@
                 {
                   "__resolveType": "deco-sites/leadfy-dealers/sections/Header.tsx",
                   "alt": "Logo Real Veículos",
-                  "brandLogo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/9c9a77c5-caca-4081-9bc5-576c21df5e80",
+                  "brandLogo": "https://decoims.com/leadfy-dealers/407a609b-2d51-4079-b9d0-52f49ff51c05/9c9a77c5_9c9a77c5-caca-4081-9bc5-576c21df5e80.png",
                   "brandName": "Volkswagen",
                   "idLoja": "6452",
-                  "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/a22f2585-ff44-4af2-91ff-1054ba2a16b5",
+                  "logo": "https://decoims.com/leadfy-dealers/be2b9762-1730-4a24-98fc-4a25c68ab667/a22f2585_a22f2585-ff44-4af2-91ff-1054ba2a16b5.png",
                   "seoSection": {
                     "__resolveType": "deco-sites/std/sections/SEO.tsx",
-                    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/cd6fa28e-2373-417d-a933-b857e13a3951",
+                    "favicon": "https://decoims.com/leadfy-dealers/bb8b319b-7dc1-4723-9e94-e19fcc1568bd/cd6fa28e_cd6fa28e-2373-417d-a933-b857e13a3951",
                     "noIndexNoFollow": false,
                     "title": "Conheça a Simcauto Chevrolet",
                     "titleTemplate": "%s | Deco.cx",
@@ -357,18 +357,18 @@
                     {
                       "alt": "Facebook Logo",
                       "href": "https://www.facebook.com/GrupoRealVeiculos",
-                      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/40dfadc4-4e8a-4bfb-a938-9e6d4f61281d"
+                      "logo": "https://decoims.com/leadfy-dealers/4d57426c-c078-4603-b6ef-6356b75d0402/40dfadc4_40dfadc4-4e8a-4bfb-a938-9e6d4f61281d.svg"
                     },
                     {
                       "alt": "Instagram Logo",
                       "href": "https://www.instagram.com/realveiculosvw",
-                      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/a384e519-6370-468a-bbb2-c7caa466a507"
+                      "logo": "https://decoims.com/leadfy-dealers/345ab8e7-b9a6-41e0-8f4d-6a2c999e6506/a384e519_a384e519-6370-468a-bbb2-c7caa466a507.svg"
                     }
                   ],
                   "whatsApp": {
                     "alt": "WhatsApp Logo",
                     "href": " ",
-                    "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/18bc749a-6397-4870-be28-a439d41bb84e"
+                    "logo": "https://decoims.com/leadfy-dealers/ac8d7e88-9137-4ca1-9d89-6c5448f4587e/18bc749a_18bc749a-6397-4870-be28-a439d41bb84e.svg"
                   },
                   "whatsAppNumber": "+558007070013"
                 },
@@ -377,8 +377,8 @@
                   "images": [
                     {
                       "alt": "polo",
-                      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/df303351-9dbb-4ae5-969d-36db0dbe552d",
-                      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/989b2dc6-a9e8-43e2-8891-64d48a315a1c"
+                      "desktop": "https://decoims.com/leadfy-dealers/27d924a6-03cd-47f2-9e77-046b0e9c614a/df303351_df303351-9dbb-4ae5-969d-36db0dbe552d.jpg",
+                      "mobile": "https://decoims.com/leadfy-dealers/30fa89b7-e5c5-4433-9c8f-d290b8c0129e/989b2dc6_989b2dc6-a9e8-43e2-8891-64d48a315a1c.jpg"
                     },
                     {
                       "action": {
@@ -388,13 +388,13 @@
                         "title": "whatsapp"
                       },
                       "alt": "tcross",
-                      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/9cefcd08-bca0-4ad0-aa06-013790189784",
-                      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/398aca99-feb3-4b8b-914e-e99406495959"
+                      "desktop": "https://decoims.com/leadfy-dealers/8a272b98-d682-4647-83e6-3c67b0f74358/9cefcd08_9cefcd08-bca0-4ad0-aa06-013790189784.jpg",
+                      "mobile": "https://decoims.com/leadfy-dealers/d09efc66-0493-4eff-8775-c1a2acd1648f/398aca99_398aca99-feb3-4b8b-914e-e99406495959.jpg"
                     },
                     {
                       "alt": "taos",
-                      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/3254a8ac-23bf-4870-bf3c-844c4ca74ab1",
-                      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/c9ee58c0-bf71-45fc-9875-d8ce0a3060a5"
+                      "desktop": "https://decoims.com/leadfy-dealers/cab5fba8-4d0a-49b6-9738-7579b69bc2ad/3254a8ac_3254a8ac-23bf-4870-bf3c-844c4ca74ab1.jpg",
+                      "mobile": "https://decoims.com/leadfy-dealers/29d95e37-7ce0-41ea-b863-223b02e0b21a/c9ee58c0_c9ee58c0-bf71-45fc-9875-d8ce0a3060a5.jpg"
                     }
                   ],
                   "interval": 7,
@@ -410,7 +410,7 @@
                   "__resolveType": "deco-sites/leadfy-dealers/sections/DealerHome.tsx",
                   "banner": {
                     "altText": "Banner Simcauto",
-                    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1865/8026ba12-aee0-4669-89f0-d1d37d92175c"
+                    "image": "https://decoims.com/leadfy-dealers/0bfaaa24-a9db-45ea-8424-df24f49643f1/8026ba12_8026ba12-aee0-4669-89f0-d1d37d92175c.jpg"
                   },
                   "content": {
                     "subtitle": "Ofertas Exclusivas",
@@ -424,11 +424,11 @@
                     "showPrice": true,
                     "textButton": "Tenho Interesse",
                     "textWhatsButton": "Falar pelo WhatsApp",
-                    "whatsImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/539af632-95be-436f-9941-5dda0656f267"
+                    "whatsImage": "https://decoims.com/leadfy-dealers/1de146a5-11bb-420f-a355-020cf31c079a/539af632_539af632-95be-436f-9941-5dda0656f267.svg"
                   },
                   "profile": {
                     "idLoja": "5604",
-                    "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1865/4ab272c2-8eab-477a-a426-1d0b7d1e38a0",
+                    "logo": "https://decoims.com/leadfy-dealers/f755afaf-2c3a-4319-88b8-7312adfe0556/4ab272c2_4ab272c2-8eab-477a-a426-1d0b7d1e38a0.png",
                     "whatsappNumber": "2135596207"
                   },
                   "title": "Ofertas Real Veículos VW",
@@ -459,8 +459,8 @@
                 },
                 {
                   "__resolveType": "deco-sites/std/sections/SEO.tsx",
-                  "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/9016815e-e58d-4b42-89a7-fa0f15a2ed7e",
-                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/d2d8bd67-5ffe-4383-9d77-e8db9a28ab9d",
+                  "favicon": "https://decoims.com/leadfy-dealers/ffd950b6-fc51-45cd-9830-3c2ae9549ab4/9016815e_9016815e-e58d-4b42-89a7-fa0f15a2ed7e.png",
+                  "image": "https://decoims.com/leadfy-dealers/4271762e-67b0-4121-a2fc-c4d6358b6ed7/d2d8bd67_d2d8bd67-5ffe-4383-9d77-e8db9a28ab9d.png",
                   "title": "Conheça a Real Veículos VW"
                 },
                 {
@@ -471,13 +471,13 @@
                   "images": [
                     {
                       "alt": "polo track",
-                      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/55df7057-0a07-4a00-adc8-936906e7fa6b",
-                      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/acb6d598-6ab8-4c1b-8db2-60f012a83d5a"
+                      "desktop": "https://decoims.com/leadfy-dealers/bd0ffef4-4ec2-46ad-b23c-78befb4e8dbf/55df7057_55df7057-0a07-4a00-adc8-936906e7fa6b.jpg",
+                      "mobile": "https://decoims.com/leadfy-dealers/1c047135-cbb7-4f20-a821-c1b2046609b5/acb6d598_acb6d598-6ab8-4c1b-8db2-60f012a83d5a.jpg"
                     },
                     {
                       "alt": "assinatura",
-                      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/3b213024-b583-4b02-86d2-7f47293dbda7",
-                      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/69b07b5e-3c32-4ab8-9160-6ee3a76e67ea"
+                      "desktop": "https://decoims.com/leadfy-dealers/45450082-ffb1-49d8-be78-5c65eb9eba9b/3b213024_3b213024-b583-4b02-86d2-7f47293dbda7.jpg",
+                      "mobile": "https://decoims.com/leadfy-dealers/5c1fd7e5-7879-470b-bcb0-e23538e86a68/69b07b5e_69b07b5e-3c32-4ab8-9160-6ee3a76e67ea.jpg"
                     }
                   ],
                   "interval": 7,
@@ -493,7 +493,7 @@
                   "__resolveType": "deco-sites/leadfy-dealers/sections/DealerHome.tsx",
                   "banner": {
                     "altText": "Banner Simcauto",
-                    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1865/8026ba12-aee0-4669-89f0-d1d37d92175c"
+                    "image": "https://decoims.com/leadfy-dealers/0bfaaa24-a9db-45ea-8424-df24f49643f1/8026ba12_8026ba12-aee0-4669-89f0-d1d37d92175c.jpg"
                   },
                   "content": {
                     "subtitle": "Ofertas Exclusivas",
@@ -507,11 +507,11 @@
                     "showPrice": true,
                     "textButton": "Tenho Interesse",
                     "textWhatsButton": "Negocie pelo WhatsApp",
-                    "whatsImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/539af632-95be-436f-9941-5dda0656f267"
+                    "whatsImage": "https://decoims.com/leadfy-dealers/1de146a5-11bb-420f-a355-020cf31c079a/539af632_539af632-95be-436f-9941-5dda0656f267.svg"
                   },
                   "profile": {
                     "idLoja": "5604",
-                    "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1865/4ab272c2-8eab-477a-a426-1d0b7d1e38a0",
+                    "logo": "https://decoims.com/leadfy-dealers/f755afaf-2c3a-4319-88b8-7312adfe0556/4ab272c2_4ab272c2-8eab-477a-a426-1d0b7d1e38a0.png",
                     "whatsappNumber": "2135596207"
                   },
                   "title": "Assinaturas Real Veículos VW",
@@ -533,19 +533,19 @@
                 },
                 {
                   "__resolveType": "deco-sites/std/sections/SEO.tsx",
-                  "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/5f40e7cf-7619-4fc3-ad7a-2158e021f259",
+                  "favicon": "https://decoims.com/leadfy-dealers/eb6144bb-f4e7-4788-b4f7-0dcd5500a425/5f40e7cf_5f40e7cf-7619-4fc3-ad7a-2158e021f259",
                   "title": "Conheça a Simcauto Chevrolet"
                 },
                 {
                   "__resolveType": "deco-sites/leadfy-dealers/sections/Header.tsx",
                   "alt": "Logo Simcauto",
-                  "brandLogo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/00c57366-f312-4153-8995-b84ac014edb1",
+                  "brandLogo": "https://decoims.com/leadfy-dealers/b3e40724-2ed4-4128-a652-857e32df921c/00c57366_00c57366-f312-4153-8995-b84ac014edb1.png",
                   "brandName": "Chevrolet",
                   "idLoja": "6454",
-                  "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/0dfed1dc-b329-44b7-ae07-29dbb23dfae8",
+                  "logo": "https://decoims.com/leadfy-dealers/ccd786e7-a747-4423-be42-4c33046c7c8a/0dfed1dc_0dfed1dc-b329-44b7-ae07-29dbb23dfae8.png",
                   "seoSection": {
                     "__resolveType": "deco-sites/std/sections/SEO.tsx",
-                    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/cd6fa28e-2373-417d-a933-b857e13a3951",
+                    "favicon": "https://decoims.com/leadfy-dealers/bb8b319b-7dc1-4723-9e94-e19fcc1568bd/cd6fa28e_cd6fa28e-2373-417d-a933-b857e13a3951",
                     "noIndexNoFollow": false,
                     "title": "Conheça a Simcauto Chevrolet",
                     "titleTemplate": "%s | Deco.cx",
@@ -555,18 +555,18 @@
                     {
                       "alt": "Facebook Logo",
                       "href": "https://www.facebook.com/SimcautoChevrolet",
-                      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/40dfadc4-4e8a-4bfb-a938-9e6d4f61281d"
+                      "logo": "https://decoims.com/leadfy-dealers/4d57426c-c078-4603-b6ef-6356b75d0402/40dfadc4_40dfadc4-4e8a-4bfb-a938-9e6d4f61281d.svg"
                     },
                     {
                       "alt": "Instagram Logo",
                       "href": "https://www.instagram.com/simcautochevroletrio",
-                      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/a384e519-6370-468a-bbb2-c7caa466a507"
+                      "logo": "https://decoims.com/leadfy-dealers/345ab8e7-b9a6-41e0-8f4d-6a2c999e6506/a384e519_a384e519-6370-468a-bbb2-c7caa466a507.svg"
                     }
                   ],
                   "whatsApp": {
                     "alt": "WhatsApp Logo",
                     "href": " ",
-                    "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/18bc749a-6397-4870-be28-a439d41bb84e"
+                    "logo": "https://decoims.com/leadfy-dealers/ac8d7e88-9137-4ca1-9d89-6c5448f4587e/18bc749a_18bc749a-6397-4870-be28-a439d41bb84e.svg"
                   },
                   "whatsAppNumber": "21 35596207"
                 },
@@ -581,8 +581,8 @@
                         "title": "whatsapp 1"
                       },
                       "alt": "onix",
-                      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/361b4e4b-08d7-4da5-9a66-661f5220b48c",
-                      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/ec0b2e68-2b39-46d2-a8f2-c2e7ad69c3c4"
+                      "desktop": "https://decoims.com/leadfy-dealers/bee2f3e3-0117-4e29-8c5b-2299f09b4b23/361b4e4b_361b4e4b-08d7-4da5-9a66-661f5220b48c.jpg",
+                      "mobile": "https://decoims.com/leadfy-dealers/ea2f7e88-8af9-4fe9-b396-c28bd9b5cc97/ec0b2e68_ec0b2e68-2b39-46d2-a8f2-c2e7ad69c3c4.jpg"
                     },
                     {
                       "action": {
@@ -592,8 +592,8 @@
                         "title": "whatsapp"
                       },
                       "alt": "nova montana",
-                      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/bcce62c0-286c-440e-857f-892e024a416d",
-                      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/07a0b7a9-947c-4530-8911-8b7fbe9a35c9"
+                      "desktop": "https://decoims.com/leadfy-dealers/49afdb07-83f6-4661-ab54-9ae27b295ab1/bcce62c0_bcce62c0-286c-440e-857f-892e024a416d.jpg",
+                      "mobile": "https://decoims.com/leadfy-dealers/1e138094-e1ea-477f-b562-56708dd95c7b/07a0b7a9_07a0b7a9-947c-4530-8911-8b7fbe9a35c9.jpg"
                     },
                     {
                       "action": {
@@ -603,8 +603,8 @@
                         "title": "whatsapp"
                       },
                       "alt": "tracker",
-                      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/52e11c0c-654a-4177-ad53-9f7b49acfc13",
-                      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/d9267692-f9e9-4686-b17e-cfc035fc7a96"
+                      "desktop": "https://decoims.com/leadfy-dealers/0f95acc0-903d-469f-b126-2e89389ef5fe/52e11c0c_52e11c0c-654a-4177-ad53-9f7b49acfc13.jpg",
+                      "mobile": "https://decoims.com/leadfy-dealers/cf6b7403-19b1-4319-90a5-67755d8c399e/d9267692_d9267692-f9e9-4686-b17e-cfc035fc7a96.jpg"
                     }
                   ],
                   "interval": 10,
@@ -620,7 +620,7 @@
                   "__resolveType": "deco-sites/leadfy-dealers/sections/DealerHome.tsx",
                   "banner": {
                     "altText": "Banner Simcauto",
-                    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1865/8026ba12-aee0-4669-89f0-d1d37d92175c"
+                    "image": "https://decoims.com/leadfy-dealers/0bfaaa24-a9db-45ea-8424-df24f49643f1/8026ba12_8026ba12-aee0-4669-89f0-d1d37d92175c.jpg"
                   },
                   "content": {
                     "subtitle": "Ofertas Exclusivas",
@@ -634,11 +634,11 @@
                     "showPrice": true,
                     "textButton": "Tenho Interesse",
                     "textWhatsButton": "Negocie pelo WhatsApp",
-                    "whatsImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/539af632-95be-436f-9941-5dda0656f267"
+                    "whatsImage": "https://decoims.com/leadfy-dealers/1de146a5-11bb-420f-a355-020cf31c079a/539af632_539af632-95be-436f-9941-5dda0656f267.svg"
                   },
                   "profile": {
                     "idLoja": "5604",
-                    "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1865/4ab272c2-8eab-477a-a426-1d0b7d1e38a0",
+                    "logo": "https://decoims.com/leadfy-dealers/f755afaf-2c3a-4319-88b8-7312adfe0556/4ab272c2_4ab272c2-8eab-477a-a426-1d0b7d1e38a0.png",
                     "whatsappNumber": "2135596207"
                   },
                   "title": "Ofertas Simcauto Chevrolet",
@@ -699,13 +699,13 @@
                 {
                   "__resolveType": "deco-sites/leadfy-dealers/sections/Header.tsx",
                   "alt": "Logo Real Veículos",
-                  "brandLogo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/9c9a77c5-caca-4081-9bc5-576c21df5e80",
+                  "brandLogo": "https://decoims.com/leadfy-dealers/407a609b-2d51-4079-b9d0-52f49ff51c05/9c9a77c5_9c9a77c5-caca-4081-9bc5-576c21df5e80.png",
                   "brandName": "Volkswagen",
                   "idLoja": "6452",
-                  "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/a22f2585-ff44-4af2-91ff-1054ba2a16b5",
+                  "logo": "https://decoims.com/leadfy-dealers/be2b9762-1730-4a24-98fc-4a25c68ab667/a22f2585_a22f2585-ff44-4af2-91ff-1054ba2a16b5.png",
                   "seoSection": {
                     "__resolveType": "deco-sites/std/sections/SEO.tsx",
-                    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/cd6fa28e-2373-417d-a933-b857e13a3951",
+                    "favicon": "https://decoims.com/leadfy-dealers/bb8b319b-7dc1-4723-9e94-e19fcc1568bd/cd6fa28e_cd6fa28e-2373-417d-a933-b857e13a3951",
                     "noIndexNoFollow": false,
                     "title": "Conheça a Simcauto Chevrolet",
                     "titleTemplate": "%s | Deco.cx",
@@ -715,18 +715,18 @@
                     {
                       "alt": "Facebook Logo",
                       "href": "https://www.facebook.com/GrupoRealVeiculos",
-                      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/40dfadc4-4e8a-4bfb-a938-9e6d4f61281d"
+                      "logo": "https://decoims.com/leadfy-dealers/4d57426c-c078-4603-b6ef-6356b75d0402/40dfadc4_40dfadc4-4e8a-4bfb-a938-9e6d4f61281d.svg"
                     },
                     {
                       "alt": "Instagram Logo",
                       "href": "https://www.instagram.com/realveiculosvw",
-                      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/a384e519-6370-468a-bbb2-c7caa466a507"
+                      "logo": "https://decoims.com/leadfy-dealers/345ab8e7-b9a6-41e0-8f4d-6a2c999e6506/a384e519_a384e519-6370-468a-bbb2-c7caa466a507.svg"
                     }
                   ],
                   "whatsApp": {
                     "alt": "WhatsApp Logo",
                     "href": " ",
-                    "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/18bc749a-6397-4870-be28-a439d41bb84e"
+                    "logo": "https://decoims.com/leadfy-dealers/ac8d7e88-9137-4ca1-9d89-6c5448f4587e/18bc749a_18bc749a-6397-4870-be28-a439d41bb84e.svg"
                   },
                   "whatsAppNumber": "+558007070013"
                 },
@@ -746,7 +746,7 @@
                   "phone": "(21) 35596202",
                   "whatsNormalButton": {
                     "textWhatsButton": "Falar pelo WhatsApp",
-                    "whatsImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/5e7d0d03-8c2b-41ce-8c64-95ce3bfdd850"
+                    "whatsImage": "https://decoims.com/leadfy-dealers/50a30c89-baa8-4775-b986-68737ecf5564/5e7d0d03_5e7d0d03-8c2b-41ce-8c64-95ce3bfdd850.svg"
                   }
                 },
                 {
@@ -754,8 +754,8 @@
                 },
                 {
                   "__resolveType": "deco-sites/std/sections/SEO.tsx",
-                  "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/5b0fd48f-0fb4-4981-a801-9517e17001e6",
-                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/2ef2250c-093f-4913-af95-981af5a94df0",
+                  "favicon": "https://decoims.com/leadfy-dealers/07599dd2-0b2e-478b-b968-966eecf4a381/5b0fd48f_5b0fd48f-0fb4-4981-a801-9517e17001e6.png",
+                  "image": "https://decoims.com/leadfy-dealers/5445a708-52c6-4068-aff7-603d174b87cb/2ef2250c_2ef2250c-093f-4913-af95-981af5a94df0.png",
                   "title": "Ofertas volkwagen",
                   "titleTemplate": "Ofertas VW"
                 },
@@ -793,7 +793,7 @@
                   "phone": "(21) 35596202",
                   "whatsNormalButton": {
                     "textWhatsButton": "Negocie pelo WhatsApp",
-                    "whatsImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/5e7d0d03-8c2b-41ce-8c64-95ce3bfdd850"
+                    "whatsImage": "https://decoims.com/leadfy-dealers/50a30c89-baa8-4775-b986-68737ecf5564/5e7d0d03_5e7d0d03-8c2b-41ce-8c64-95ce3bfdd850.svg"
                   }
                 },
                 {
@@ -801,8 +801,8 @@
                 },
                 {
                   "__resolveType": "deco-sites/std/sections/SEO.tsx",
-                  "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/5b0fd48f-0fb4-4981-a801-9517e17001e6",
-                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/2ef2250c-093f-4913-af95-981af5a94df0",
+                  "favicon": "https://decoims.com/leadfy-dealers/07599dd2-0b2e-478b-b968-966eecf4a381/5b0fd48f_5b0fd48f-0fb4-4981-a801-9517e17001e6.png",
+                  "image": "https://decoims.com/leadfy-dealers/5445a708-52c6-4068-aff7-603d174b87cb/2ef2250c_2ef2250c-093f-4913-af95-981af5a94df0.png",
                   "title": "Ofertas volkwagen",
                   "titleTemplate": "Ofertas VW"
                 }
@@ -820,13 +820,13 @@
                 {
                   "__resolveType": "deco-sites/leadfy-dealers/sections/Header.tsx",
                   "alt": "Logo Simcauto",
-                  "brandLogo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/00c57366-f312-4153-8995-b84ac014edb1",
+                  "brandLogo": "https://decoims.com/leadfy-dealers/b3e40724-2ed4-4128-a652-857e32df921c/00c57366_00c57366-f312-4153-8995-b84ac014edb1.png",
                   "brandName": "Chevrolet",
                   "idLoja": "6454",
-                  "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/0dfed1dc-b329-44b7-ae07-29dbb23dfae8",
+                  "logo": "https://decoims.com/leadfy-dealers/ccd786e7-a747-4423-be42-4c33046c7c8a/0dfed1dc_0dfed1dc-b329-44b7-ae07-29dbb23dfae8.png",
                   "seoSection": {
                     "__resolveType": "deco-sites/std/sections/SEO.tsx",
-                    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/cd6fa28e-2373-417d-a933-b857e13a3951",
+                    "favicon": "https://decoims.com/leadfy-dealers/bb8b319b-7dc1-4723-9e94-e19fcc1568bd/cd6fa28e_cd6fa28e-2373-417d-a933-b857e13a3951",
                     "noIndexNoFollow": false,
                     "title": "Conheça a Simcauto Chevrolet",
                     "titleTemplate": "%s | Deco.cx",
@@ -836,18 +836,18 @@
                     {
                       "alt": "Facebook Logo",
                       "href": "https://www.facebook.com/SimcautoChevrolet",
-                      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/40dfadc4-4e8a-4bfb-a938-9e6d4f61281d"
+                      "logo": "https://decoims.com/leadfy-dealers/4d57426c-c078-4603-b6ef-6356b75d0402/40dfadc4_40dfadc4-4e8a-4bfb-a938-9e6d4f61281d.svg"
                     },
                     {
                       "alt": "Instagram Logo",
                       "href": "https://www.instagram.com/simcautochevroletrio",
-                      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/a384e519-6370-468a-bbb2-c7caa466a507"
+                      "logo": "https://decoims.com/leadfy-dealers/345ab8e7-b9a6-41e0-8f4d-6a2c999e6506/a384e519_a384e519-6370-468a-bbb2-c7caa466a507.svg"
                     }
                   ],
                   "whatsApp": {
                     "alt": "WhatsApp Logo",
                     "href": " ",
-                    "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/18bc749a-6397-4870-be28-a439d41bb84e"
+                    "logo": "https://decoims.com/leadfy-dealers/ac8d7e88-9137-4ca1-9d89-6c5448f4587e/18bc749a_18bc749a-6397-4870-be28-a439d41bb84e.svg"
                   },
                   "whatsAppNumber": "21 35596207"
                 },
@@ -867,7 +867,7 @@
                   "phone": "(21) 35596202",
                   "whatsNormalButton": {
                     "textWhatsButton": "Negocie pelo WhatsApp",
-                    "whatsImage": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/5e7d0d03-8c2b-41ce-8c64-95ce3bfdd850"
+                    "whatsImage": "https://decoims.com/leadfy-dealers/50a30c89-baa8-4775-b986-68737ecf5564/5e7d0d03_5e7d0d03-8c2b-41ce-8c64-95ce3bfdd850.svg"
                   }
                 },
                 {
@@ -875,7 +875,7 @@
                 },
                 {
                   "__resolveType": "deco-sites/std/sections/SEO.tsx",
-                  "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/7aa2a9a7-ae07-47ff-87a5-2f9e7dac9562"
+                  "favicon": "https://decoims.com/leadfy-dealers/5b805439-f0f9-4c57-bad9-c3213b6e6c5d/7aa2a9a7_7aa2a9a7-ae07-47ff-87a5-2f9e7dac9562"
                 },
                 {
                   "__resolveType": "deco-sites/leadfy-dealers/sections/GTM.tsx",
@@ -917,8 +917,8 @@
       "canonical": "https://www.chevrolet.com.br",
       "description": "Encontre o Chevrolet que combina com você. Confira todos os modelos de carros hatch, sedan, esportivos, picapes, SUVs, conversíveis e muito mais!",
       "descriptionTemplate": "%s | Deco.cx",
-      "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/2643ebda-38f2-4dac-b4b1-18af0276be64",
-      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1953/29494d07-6fff-4ea1-a340-28d15789676e",
+      "favicon": "https://decoims.com/leadfy-dealers/df2d1201-b57a-4a04-ad87-d00965f29cd5/2643ebda_2643ebda-38f2-4dac-b4b1-18af0276be64.png",
+      "image": "https://decoims.com/leadfy-dealers/f50e14dc-e336-47e8-82cc-386bf7d62e85/29494d07_29494d07-6fff-4ea1-a340-28d15789676e.png",
       "title": "Concessionária Simcauto Chevrolet - Carros novos e usados no Rio de Janeiro - RJ",
       "titleTemplate": "Concessionária Simcauto Chevrolet - Carros novos e usados no Rio de Janeiro - RJ",
       "type": "website"

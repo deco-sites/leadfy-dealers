@@ -1,0 +1,6 @@
+{
+  "resolvables": {
+    "__resolveType": "deco-sites/admin/loaders/state.ts"
+  },
+  "__resolveType": "decohub/apps/admin.ts"
+}

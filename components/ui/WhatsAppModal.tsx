@@ -155,7 +155,7 @@ export default function WhatsAppModal(
 
           <div
             class="form-content bg-[#e9e0d7] bg-center bg-cover flex flex-col gap-2 p-4 rounded h-full"
-            style="background-image: url(https://www.davidsonsilva.com.br/wp-content/uploads/2023/04/bg-whatsapp.png)"
+            style="background-image: url(https://decoims.com/leadfy-dealers/0b2d6c49-4a87-4374-bf6d-45a126fcaa4a/442cc4ad_442cc4adefd9dda954d0316c962df546.png)"
           >
             <p class="buss-msg bg-[white] w-5/6 p-2 rounded text-base relative">
               Olá, quer saber mais sobres nossas ofertas exclusivas? Me informe

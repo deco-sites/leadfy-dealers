@@ -1,0 +1,33 @@
+{
+  "__resolveType": "deco-sites/leadfy-dealers/sections/Footer.tsx",
+  "content": [
+    "<p><strong>Del Castilho</strong></p><p>Estrada Adhemar Bebiano, 177<br><span class=\"ng-star-inserted\">Bairro Del Castilho<br></span>Rio de Janeiro - RJ<br>21051-070</p><p><br data-mce-bogus=\"1\"></p><p>Vendas: (21) 3559-6202</p>",
+    "<p><strong>Barra da Tijuca</strong></p><p>Estrada da Barra da Tijuca, 465<br><span class=\"ng-star-inserted\">Bairro Barra da Tijuca<br></span>Rio de Janeiro - RJ<br>22611-202</p><p><br data-mce-bogus=\"1\"></p><p>Vendas: (21) 2173-1500</p>",
+    "<p><strong>Botafogo</strong></p><p>Rua Real Grandeza, 123<br>Bairro Botafogo<span class=\"ng-star-inserted\"><br></span>Rio de Janeiro - RJ<br>22281-900</p><p><br data-mce-bogus=\"1\"></p><p>Vendas: (21) 2126-8555</p>",
+    "<p><strong>Cascadura</strong></p><p>Av. Dom Helder Camara, 10087<br><span class=\"ng-star-inserted\">Bairro Cascadura<br></span>Rio de Janeiro - RJ<br>21380-008</p><p><br data-mce-bogus=\"1\"></p><p>Vendas:&nbsp;(21) 2583-9191</p>",
+    "<p><strong>Nova Iguaçu</strong></p><p>Rodovia Pres. Dutra, 12173<br><span class=\"ng-star-inserted\">Bairro Prata<br></span>Nova Iguaçu - RJ<br>26.221-190</p><p><br data-mce-bogus=\"1\"></p><p>Vendas: (21) 3540-8333</p>"
+  ],
+  "interval": 0,
+  "stores": [
+    {
+      "content": "<p><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\"><strong>Real Veículos | Vila da Penha</strong></span></p><p><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">Av. Vicente de Carvalho, 1017</span><br><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">Vila da Penha&nbsp;</span><br><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">Rio de Janeiro - RJ</span><br><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">CEP: 21210-623</span></p>",
+      "labelPhone": "Vendas:",
+      "phoneNumber": "0800 707 0013"
+    },
+    {
+      "content": "<p><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\"><strong>Real Veículos | Itaguaí</strong></span></p><p><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">Rio - Santos 2424</span><br><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\"><span class=\"ng-star-inserted\">Vila Ibirapitanga<br></span>Itaguaí - RJ</span><br><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">CEP: 23812-101</span></p>",
+      "labelPhone": "Vendas:",
+      "phoneNumber": "0800 707 0013"
+    },
+    {
+      "content": "<p><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\"><strong>Real Veículos | Copacabana</strong></span></p><p><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">Av. Princesa Isabel, 481</span><br><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">Copacabana<span class=\"ng-star-inserted\"><br></span>Rio de Janeiro - RJ</span><br><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">CEP: 22011-010</span></p>",
+      "labelPhone": "Vendas:",
+      "phoneNumber": "0800 707 0013"
+    },
+    {
+      "content": "<p><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\"><strong>Ponto Avançado</strong></span></p><p><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">Av. Padre Guilherme Dec, 2385</span><br><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\"><span class=\"ng-star-inserted\">Santa Cruz<br></span>Rio de Janeiro - RJ</span><br><span style=\"color: rgb(0, 0, 0);\" data-mce-style=\"color: rgb(0, 0, 0);\">CEP: 23575-000</span></p>",
+      "labelPhone": "Vendas:",
+      "phoneNumber": "0800 707 0013"
+    }
+  ]
+}
