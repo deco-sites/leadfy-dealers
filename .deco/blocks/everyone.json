@@ -1,0 +1,27 @@
+{
+  "__resolveType": "$live/flags/everyone.ts",
+  "routes": [
+    {
+      "handler": {
+        "value": {
+          "__resolveType": "$live/handlers/fresh.ts",
+          "page": {
+            "__resolveType": "home"
+          }
+        }
+      },
+      "pathTemplate": "/"
+    },
+    {
+      "handler": {
+        "value": {
+          "__resolveType": "$live/handlers/fresh.ts",
+          "page": {
+            "__resolveType": "pages-pdp-e27728fd9791"
+          }
+        }
+      },
+      "pathTemplate": "/:idloja/:slug"
+    }
+  ]
+}

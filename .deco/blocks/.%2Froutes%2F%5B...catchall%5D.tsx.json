@@ -1,0 +1,8 @@
+{
+  "__resolveType": "$live/handlers/routesSelection.ts",
+  "audiences": [
+    {
+      "__resolveType": "everyone"
+    }
+  ]
+}
