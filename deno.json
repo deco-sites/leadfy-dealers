@@ -32,7 +32,7 @@
   "imports": {
     "deco-sites/leadfy-dealers/": "./",
     "deco-sites/start/": "./",
-    "deco-sites/std/": "https://cdn.jsdelivr.net/gh/deco-sites/std@1.22.11/",
+    "deco-sites/std/": "https://cdn.jsdelivr.net/gh/deco-sites/std@1.27.1/",
     "$live/": "https://cdn.jsdelivr.net/gh/deco-cx/deco@1.199.1/",
     "$fresh/": "https://deno.land/x/fresh@1.7.3/",
     "preact": "npm:preact@10.23.1",
